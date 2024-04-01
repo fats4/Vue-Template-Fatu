@@ -1,3 +1,10 @@
+<script setup>
+import SectionNavbar from '../components/Section/SectionNavbar.vue'
+</script>
+
 <template>
-  <div>HomePage</div>
+  <SectionNavbar />
+  <div>
+    <p>homepage</p>
+  </div>
 </template>
