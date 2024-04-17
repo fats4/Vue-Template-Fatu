@@ -1,5 +1,8 @@
+<script setup>
+import ContentConditional from '../Rendering/ContentConditional.vue'
+
+</script>
+
 <template>
-    <div>
-        <p>Conditional Rendering</p>
-    </div>
+    <ContentConditional />
 </template>

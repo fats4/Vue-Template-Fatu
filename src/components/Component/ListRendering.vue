@@ -1,5 +1,7 @@
+<script setup>
+    import ContentList from '../Rendering/ContentList.vue'
+</script>
+
 <template>
-    <div>
-        <p>List Rendering</p>
-    </div>
+    <ContentList />
 </template>
