@@ -8,6 +8,7 @@
     <div class="flex flex-col py-6 px-1 gap-3">
       <SidebarLink to="/" name="home"/>
       <SidebarLink to="/components" name="components"/>
+      <SidebarLink to="/state" name="state"/>
     </div>
   </div>
 </template>
